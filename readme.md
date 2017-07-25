@@ -8,7 +8,19 @@ sure when you are running the script that you have writting permissions ([unix p
 
 ## PHP Version
 
+### Installation
+
 ```bash
+composer require wearenolte/buster
+```
+
+### Usage
+
+```bash
+# Installed via composer
+php vendor/bin/version
+
+# Directly on the package
 php ./version.php
 ```
 
@@ -20,6 +32,6 @@ node ./version.js
 
 Any of the previous examples it's going to create a new JSON file located at `./deploy.json`.
 
-- if something fails it's goign to return a code of `1 and an empty JSON object is going to be created.
+- if something fails it's goign to return a code of `1` and an empty JSON object is going to be created.
 - if everything was correct it's going to return `0` a JSON object with a `version` is going to be
   created.
