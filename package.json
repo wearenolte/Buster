@@ -1,0 +1,23 @@
+{
+  "name": "@wearenolte/buster",
+  "version": "0.1.0",
+  "description": "Creates a .deploy file to use as a buster mechanism",
+  "main": "bin/version.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearenolte/Buster.git"
+  },
+  "keywords": [
+    "Deploy",
+    "Buster"
+  ],
+  "author": "Crisoforo Gaspar Hernandez <hello@crisoforo.com> (http://crisoforo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wearenolte/Buster/issues"
+  },
+  "homepage": "https://github.com/wearenolte/Buster#readme"
+}
