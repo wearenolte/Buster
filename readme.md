@@ -26,6 +26,12 @@ php ./bin/version
 
 ## Node Version
 
+### Installation 
+
+```bash
+npm install --save-dev @wearenolte/buster
+```
+
 ### Usage
 
 ```bash

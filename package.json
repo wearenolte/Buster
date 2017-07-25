@@ -1,6 +1,6 @@
 {
   "name": "@wearenolte/buster",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creates a .deploy file to use as a buster mechanism",
   "main": "bin/version.js",
   "scripts": {
