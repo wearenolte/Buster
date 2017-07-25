@@ -1,0 +1,23 @@
+{
+  "name": "wearenolte/buster",
+  "description": "Creates a .deploy file to use as a buster mechanism",
+  "type": "library",
+  "support": {
+    "issues": "https://github.com/wearenolte/Buster/issues",
+    "source": "https://github.com/wearenolte/Buster"
+  },
+  "authors": [
+    {
+      "name": "WeAreNolte",
+      "email": "developer@wearenolte.com"
+    },
+    {
+      "name": "Crisoforo Gaspar",
+      "email": "hello@crisoforo.com"
+    }
+  ],
+  "bin": [
+    "bin/version"
+    ],
+    "require": {}
+}
