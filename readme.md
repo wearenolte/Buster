@@ -26,8 +26,10 @@ php ./bin/version
 
 ## Node Version
 
+### Usage
+
 ```bash
-node ./version.js
+node bin/version.js 
 ```
 
 Any of the previous examples it's going to create a new JSON file located at `./deploy.json`.
