@@ -18,10 +18,10 @@ composer require wearenolte/buster
 
 ```bash
 # Installed via composer
-php vendor/bin/version
+php ./vendor/bin/version
 
 # Directly on the package
-php ./version.php
+php ./bin/version
 ```
 
 ## Node Version
